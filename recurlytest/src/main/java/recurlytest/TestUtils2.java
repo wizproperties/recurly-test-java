@@ -4,7 +4,7 @@ import com.ning.billing.recurly.model.Account;
 import com.ning.billing.recurly.model.Address;
 import com.ning.billing.recurly.model.BillingInfo;
 
-public class TestUtils {
+public class TestUtils2 {
 
 	
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="simple">
+  <test name="simple">
+    <classes>
+      <class name="recurlytest.Simple2Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
