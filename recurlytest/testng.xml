@@ -3,7 +3,8 @@
 <suite name="simple">
   <test name="simple">
     <classes>
-      <class name="recurlytest.Simple2Test"/>
+      <class name="recurlytest.BasicRecurlySetupTest"/>
+      <class name="recurlytest.ActualRecurlyTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
