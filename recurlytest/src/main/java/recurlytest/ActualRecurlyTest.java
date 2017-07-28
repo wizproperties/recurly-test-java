@@ -75,7 +75,7 @@ public class ActualRecurlyTest {
       final Account accountData = TestUtils2.createAccount1();
       final Subscription subscriptionData = new Subscription();
       final BillingInfo billingInfoData = TestUtils2.createRandomBillingInfo();
-      final Plan planData = recurlyClient.getPlan(MY_PLAN_CODE);
+//      final Plan planData = recurlyClient.getPlan(MY_PLAN_CODE);
 
       try {
           final Account account = recurlyClient.createAccount(accountData);
