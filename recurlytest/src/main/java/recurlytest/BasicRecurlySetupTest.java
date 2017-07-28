@@ -22,7 +22,7 @@ public class BasicRecurlySetupTest {
 //	    public static final String RECURLY_API_KEY = "ewr1-aKa0ZpgJgzHUVSMDbqdnXf"; //public
 	    public static final String RECURLY_API_KEY = "b7ae615dc08e4c2398947d305def6ed3"; //private
 	    
-	    public static final String RECURLY_SUBDOMAIN = "wizproperties.recurly.com";
+	    public static final String RECURLY_SUBDOMAIN = "wizproperties";
 		private static final String MY_PLAN_CODE = "shiny";
 
 	    // Default to USD for all tests
